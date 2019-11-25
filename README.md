@@ -1,6 +1,6 @@
 # Hackathoner
 
-This bot is a POC that I worked on a little time ago but it works.
+This bot works.
 
 To start using it, I suggest to create a server and add the bot to that [server](https://github.com/jagrosh/MusicBot/wiki/Adding-Your-Bot-To-Your-Server)
 
